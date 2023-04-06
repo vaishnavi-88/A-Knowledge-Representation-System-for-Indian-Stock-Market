@@ -15,16 +15,15 @@ Sourabh Bhandari <a href="https://github.com/SOURABH101BHANDARI">@SOURABH101BHAN
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
 
 <h3>Abstract:</h3>
-<p>Investors at well-known firms are increasingly interested in stock forecasting as they look 1
-for more effective methods to make market predictions using behavioral finance tools. Accordingly, 2
-studies aimed at predicting the performance of stocks are gaining popularity in both academic and 3
-business circles. This research aims to develop a knowledge graph-based model for forecasting stock 4
-price movement using fundamental ratios of well-known corporations in India. This paper uses the 5
-data of 15 ratios taken from the top 50 companies according to market capitalization in India. The 6
-data is processed, and using different algorithms, a knowledge representation system is computed, 7
+<p>Investors at well-known firms are increasingly interested in stock forecasting as they look 
+for more effective methods to make market predictions using behavioral finance tools. Accordingly, 
+studies aimed at predicting the performance of stocks are gaining popularity in both academic and 
+business circles. This research aims to develop a knowledge graph-based model for forecasting stock 
+price movement using fundamental ratios of well-known corporations in India. This paper uses the 
+data of 15 ratios taken from the top 50 companies according to market capitalization in India. The 
+data is processed, and using different algorithms, a knowledge representation system is computed, 
 resulting in a knowledge graph. </p>
-<b>Keywords : Artificial Intelligence, Stock Market, Knowledge Representation and Reasoning, Funda- 9
-mental Analysis</b>
+<b>Keywords : Artificial Intelligence, Stock Market, Knowledge Representation and Reasoning, Fundamental Analysis</b>
 <h3>Introduction</h3>
 <p>Formal concept analysis is a method of data analysis which deals with object-attribute input data and aims at extracting from the data conceptual clusters also called formal concepts and data dependencies.
 
