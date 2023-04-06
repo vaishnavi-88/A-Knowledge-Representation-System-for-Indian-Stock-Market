@@ -1,0 +1,51 @@
+Company Name          High MCap          Mid MCap          Low Mcap          Very Positive ROE          Positive ROE          Negative ROE          High P/E          Mid P/E          Low P/E          Low P/BV          Mid P/BV          High P/BV          Negative EPS          Positive EPS          High Positive EPS          High D/E          Mid D/E          Low D/E          Low P/S          Mid P/S          High P/S          Low current ratio          Mid current ratio          High current ratio          High  Quick Ratio          Mid Quick Ratio          Low Quick Ratio          High Dividend Yield          Low Dividend Yield          Low PEG          Mid PEG          High PEG          Negative ROA          Positive ROA          Very Positive ROA          High Interest Coverage Ratio          Low Interest Coverage Ratio          High Asset Turnover Ratio          Low Asset Turnover Ratio
+Adani Ports	1	0	0	0	1	0	0	1	0	1	0	0	0	1	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	1	0	0	0	1	0	1	0	0	1
+Apollo Hospitals	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	1	0	1	0
+Asian Paints	1	0	0	0	1	0	1	0	0	1	0	0	1	0	0	0	1	0	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	1	0	1	0
+Axis Bank	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	1
+Bajaj Auto	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	0	0	1	1	0	0	0	1	0	0	1	0	0	1	1	0	0	1	0	0	1	0	1	0
+Bajaj Finance	1	0	0	0	1	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	0	1	0	1
+Bajaj Finserv	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	1	0	0	1	0	0	0	0	1	0	0	1	0	1	1	0	0	0	1	0	0	1	0	1
+Bharti Airtel	1	0	0	0	1	0	1	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	1	0	0	1	0	1	0	0	1	0	1	0	0	1	0	1
+Bharat Petroleum	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0	1	0
+Britannia Industries	1	0	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	0	0	0	1	0	0	1	0	1	1	0	0	1	0	0	1	0	1	0
+Cipla	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	0	0	1	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	1	0	1	0
+Coal India	1	0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0	1	0	0	1	0	0	1	0	1	0	0	0	1	0	1	0	1	0	1	0
+Divi's Laboratories	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	0	0	1	1	0	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	1	0	1	0
+Dr. Reddy's Laboratories	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	0	1	0	1	0	0	0	1	0	0	1	0	0	1	1	0	0	0	1	0	1	0	1	0
+Eicher Motors	1	0	0	0	1	0	1	0	0	1	0	0	1	0	0	0	0	1	1	0	0	0	1	0	0	1	0	0	1	1	0	0	0	1	0	1	0	1	0
+Grasim Industries	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	1	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	1	0	1	0	1	0	1	1
+HCL Technologies	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	0	1	0	1	0	0	0	1	0	0	1	0	0	1	0	1	0	1	0	0	1	0	1	0
+HDFC	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	0	1	0	0	0	0	1	0	0	1	0	1	0	1	0	0	1	0	0	1	0	1
+HDFC Bank	1	0	0	0	1	0	1	1	0	0	1	0	1	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	1
+HDFC Life	1	0	0	0	1	0	0	1	0	1	0	0	0	1	0	0	0	1	0	1	0	0	0	1	0	1	0	0	1	1	0	0	0	1	0	0	1	0	1
+Hero MotoCorp	1	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0	1	0	0	0	1	0	1	0	0	1	0	0	1	0	1	0	1	0	1	0
+Hindalco Industries	1	0	0	0	1	0	1	0	0	0	1	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	1	0	1	0
+Hindustan Unilever	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	0	0	1	1	0	0	0	1	0	0	1	0	0	1	1	0	0	0	1	0	1	0	1	0
+ICICI Bank	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	0	1	0	1
+IndusInd Bank	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	0	0	1	0	1	0	0	1	0	0	1	0	1
+Infosys	1	0	0	0	1	0	0	1	0	1	0	0	1	0	0	0	0	1	1	0	0	0	1	0	0	1	0	0	1	1	0	0	1	0	0	1	0	1	0
+ITC Limited	1	0	0	0	1	0	0	1	0	1	0	0	0	1	0	0	0	1	1	0	0	0	1	0	0	1	0	0	1	1	0	0	0	1	0	1	0	1	0
+JSW Steel	1	0	0	1	0	0	0	0	1	0	1	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	1	0	1	0
+Kotak Mahindra Bank	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	0	1	0	1
+Larsen & Toubro	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	0	1	1	0	0	0	1	0	0	1	0	1
+Mahindra & Mahindra	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	0	1	1	0
+Maruti Suzuki	1	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0	0	1	1	0	0	0	0	1	0	1	0	0	1	0	0	1	0	1	0	1	0	1	0
+Nestlé India	1	0	0	1	0	0	1	0	0	1	0	0	1	0	0	0	1	0	1	0	0	0	1	0	0	0	1	0	1	1	0	0	1	0	0	1	0	1	0
+NTPC	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	1	0	1	0	1	0	0	1
+Oil and Natural Gas Corporation	1	0	0	0	1	0	0	0	1	0	0	1	1	0	0	0	1	0	0	1	0	0	0	1	0	0	1	1	0	0	0	1	0	1	0	1	0	1	0
+Power Grid Corporation of India	1	0	0	0	1	0	0	0	1	0	1	0	0	1	0	1	0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	1	0	1	0	1	0	0	1
+Reliance Industries	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	0	1	0	1	0	0	0	0	1	0	1	0	0	1	0	1	0	0	1	0	1	0	0	1
+State Bank of India	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	1	0	0	1	0	1
+SBI Life Insurance Company	1	0	0	0	1	0	1	0	0	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	1	0	0	1	1	0	0	0	1	0	0	1	0	1
+Shree Cements	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	1	1	0	0	0	1	0	1	0	1	0
+Sun Pharmaceutical	1	0	0	0	1	0	0	1	0	0	1	0	0	1	0	0	0	1	1	0	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	1	0	1	0
+Tata Motors	1	0	0	0	0	1	0	0	1	0	1	0	0	0	1	1	0	0	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	1	1	0
+Tata Steel	1	0	0	0	0	0	0	0	1	0	1	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	1	1	0	0	0	1	0	1	0	1	0	1	0
+Tata Consultancy Services	1	0	0	1	0	0	0	1	0	1	0	0	1	0	1	0	0	1	1	0	0	0	0	1	0	1	0	0	1	1	0	0	0	1	0	1	0	1	0
+Tata Consumer Products	1	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	0	1	1	0	0	0	1	0	0	1	0	0	1	1	0	0	0	1	0	1	0	1	0
+Tech Mahindra	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	0	1	0	1	0	0	0	1	0	0	1	0	0	1	0	1	0	0	1	0	1	0	1	0
+Titan Company	1	0	0	0	1	0	1	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	1	0	0	0	1	0	1	1	0	0	0	1	0	1	0	1	0
+UltraTech Cement	1	0	0	0	1	0	0	1	0	0	1	0	1	1	0	0	1	0	1	0	0	0	0	1	0	1	0	0	1	0	1	0	0	1	0	0	1	1	0
+United Phosphorus Limited	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	1	0	0	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	1	0	1	0
+Wipro	1	0	0	0	1	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	0	1	1	0	0	0	1	0	1	0	1	0
